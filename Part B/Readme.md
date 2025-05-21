@@ -23,7 +23,7 @@ This project uses the [Dakshina dataset](https://github.com/google-research-data
 ### Option 1: Manual Training (via argparse)
 
 ```
-python train_partA.py \
+python train_partB.py \
   --embed_dim 384 \
   --hidden_dim 256 \
   --rnn_type gru \
